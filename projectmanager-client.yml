@@ -1,0 +1,6 @@
+server:
+  port: 7070
+spring:
+  freemarker:
+    expose-request-attributes: true
+    suffix: .ftl
